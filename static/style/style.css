@@ -1,0 +1,34 @@
+.app-logo {
+  height: 30vmin;
+  border-radius: 1000px;
+}
+
+.app-header {
+  font-size: calc(12px + 2vmin);
+}
+
+a {
+  color: whitesmoke;
+  text-decoration: none;
+  font-size: calc(30px + 2vmin);
+}
+
+body {
+  text-align: center;
+  max-width: 1000px;
+  margin: 20px auto;
+  padding: 0 10px;
+  font: 1.6rem/1.5;
+  background-color: #a73838;
+  color: whitesmoke; 
+  font-family: 'Courier New';
+  font-size: calc(12px + 1vmin);
+}
+
+footer {
+  margin:0px;
+  padding:0px;
+  min-width:100%;
+  max-width:100%;
+}
+  
